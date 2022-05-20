@@ -8438,6 +8438,7 @@ a.address:hover {
 /*-------- 2.17 Parallax Video Background --------*/
 
 .hero_single.jarallax {
+    background-image: url(/html/img/portada.jpg);
     height: 650px;
 }
 

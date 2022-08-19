@@ -5680,7 +5680,7 @@ span.infobox_rate {
     height: 465px;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 1024px) {
     .map_contact {
         height: 445px;
         margin-bottom: 45px;

@@ -1362,7 +1362,7 @@ header.sticky .hamburger-inner::after {
 }
 
 .hero_in.contacts:before {
-    background: url(../img/hero_in_bg_3.jpg) center center no-repeat;
+    background: url("../img/fondo.jpg") center center no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -5682,7 +5682,7 @@ span.infobox_rate {
 
 @media (max-width: 991px) {
     .map_contact {
-        height: 350px;
+        height: 445px;
         margin-bottom: 45px;
     }
 }

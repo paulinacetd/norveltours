@@ -1362,7 +1362,7 @@ header.sticky .hamburger-inner::after {
 }
 
 .hero_in.contacts:before {
-    background: url("../img/fondo.jpg") center center no-repeat;
+    background: url(../img/fondo.jpg) center center no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
